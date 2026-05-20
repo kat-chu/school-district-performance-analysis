@@ -110,7 +110,3 @@ print(school_students_passing_math_and_reading)
 - **Python**  
 - **Pandas** (Data manipulation)  
 - **Jupyter Notebook** (Interactive analysis)   
-
-## References
-- Chat GPT
-

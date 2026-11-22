@@ -1,4 +1,4 @@
-# PyCitySchools Analysis
+# School District Performance Python Analysis
 
 ## Overview
 This project analyzes school performance across a district using Python and Pandas. By aggregating and manipulating standardized test data, we identify trends in student achievement based on factors such as school type, budget, and student demographics.
